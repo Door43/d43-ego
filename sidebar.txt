@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ego:home|Door43 (ego)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ego|d43-ego repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ego/archive/master.zip|d43-ego.zip]]
+
+**Recent Changes**
+{{changes>ns = ego}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ego|Ethnologue data]]
+
